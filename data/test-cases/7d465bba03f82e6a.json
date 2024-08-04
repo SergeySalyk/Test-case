@@ -1,0 +1,99 @@
+{
+  "uid" : "7d465bba03f82e6a",
+  "name" : "Check natural numbers without the \"additional condition\" checkbox",
+  "fullName" : "tests.test_case_en.TestFormValidation#test_natural_numbers_without_checkbox",
+  "historyId" : "4cb8429927736faa48062dd4570eb46f",
+  "time" : {
+    "start" : 1722807170256,
+    "stop" : 1722807170257,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Enter value '50' in the 'Number' field and click 'Check'",
+      "time" : {
+        "start" : 1722807170257,
+        "stop" : 1722807170257,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bbf39f702ece28e2",
+        "name" : "Expected Result",
+        "source" : "bbf39f702ece28e2.txt",
+        "type" : "text/plain",
+        "size" : 124
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Field: Number Input"
+  }, {
+    "name" : "feature",
+    "value" : "Form Validation"
+  }, {
+    "name" : "tag",
+    "value" : "priority(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_case_en"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestFormValidation"
+  }, {
+    "name" : "host",
+    "value" : "fv-az658-27"
+  }, {
+    "name" : "thread",
+    "value" : "1759-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_case_en"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "value",
+    "value" : "50"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "priority(1)" ]
+  },
+  "source" : "7d465bba03f82e6a.json",
+  "parameterValues" : [ "50" ]
+}

@@ -1,0 +1,1 @@
+Value '19.9' is expected to be a floating-point number but below the minimum boundary (20). The check result should be erroneous.

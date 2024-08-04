@@ -1,0 +1,1 @@
+Value 'abc' is expected to be a string and cannot be accepted as a numerical value. The check result should be erroneous.

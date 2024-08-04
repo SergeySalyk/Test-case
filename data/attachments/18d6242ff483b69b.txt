@@ -1,0 +1,1 @@
+An empty value in the 'Number' field is expected to be rejected, and the check result should be erroneous.

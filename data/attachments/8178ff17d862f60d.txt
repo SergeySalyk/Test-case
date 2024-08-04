@@ -1,0 +1,1 @@
+Value '20' is expected to be an integer, but with the additional condition checkbox selected, it should be a floating-point number. The check result should be erroneous.

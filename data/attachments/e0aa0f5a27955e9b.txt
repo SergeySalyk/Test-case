@@ -1,0 +1,1 @@
+Value '20,5' is expected to be a floating-point number with a dot. If a comma is used, the check result should be erroneous.

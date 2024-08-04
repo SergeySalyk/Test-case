@@ -1,0 +1,593 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Form Validation",
+    "children" : [ {
+      "name" : "Field: Number Input",
+      "children" : [ {
+        "name" : "Check natural numbers without the \"additional condition\" checkbox",
+        "uid" : "91aafe60b81bbb76",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170249,
+          "stop" : 1722807170249,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "20" ]
+      }, {
+        "name" : "Check natural numbers without the \"additional condition\" checkbox",
+        "uid" : "f76ff78fc8066c7f",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170251,
+          "stop" : 1722807170251,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "21" ]
+      }, {
+        "name" : "Check natural numbers without the \"additional condition\" checkbox",
+        "uid" : "526f0837a12fa99",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170253,
+          "stop" : 1722807170253,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "30" ]
+      }, {
+        "name" : "Check natural numbers without the \"additional condition\" checkbox",
+        "uid" : "ca4a6b94a3bde6d4",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170255,
+          "stop" : 1722807170255,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "49" ]
+      }, {
+        "name" : "Check natural numbers without the \"additional condition\" checkbox",
+        "uid" : "7d465bba03f82e6a",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170256,
+          "stop" : 1722807170257,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "50" ]
+      }, {
+        "name" : "Check floating-point numbers with the additional condition checkbox",
+        "uid" : "1ca479f9e8484b32",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170258,
+          "stop" : 1722807170258,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "20.1" ]
+      }, {
+        "name" : "Check floating-point numbers with the additional condition checkbox",
+        "uid" : "93fa85ffdeea6d6a",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170260,
+          "stop" : 1722807170260,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "21.5" ]
+      }, {
+        "name" : "Check floating-point numbers with the additional condition checkbox",
+        "uid" : "982b2720afa3aec6",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170262,
+          "stop" : 1722807170262,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "30.8" ]
+      }, {
+        "name" : "Check floating-point numbers with the additional condition checkbox",
+        "uid" : "2382cff0419a872",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170263,
+          "stop" : 1722807170264,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "49.9" ]
+      }, {
+        "name" : "Check floating-point numbers with the additional condition checkbox",
+        "uid" : "4779042de5078e91",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170265,
+          "stop" : 1722807170265,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "50.0" ]
+      }, {
+        "name" : "Check integer numbers with the additional condition checkbox",
+        "uid" : "ebb2bd802765fc09",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170267,
+          "stop" : 1722807170267,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check numbers below the minimum boundary",
+        "uid" : "93320ebea451d338",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170268,
+          "stop" : 1722807170268,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check numbers above the maximum boundary",
+        "uid" : "aa67876e89fbc6b8",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170269,
+          "stop" : 1722807170270,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check negative numbers",
+        "uid" : "ed5daddc8d9fa86a",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170271,
+          "stop" : 1722807170271,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check zero value",
+        "uid" : "fce48acf23173a71",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170272,
+          "stop" : 1722807170273,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check floating-point number below minimum boundary with checkbox",
+        "uid" : "5632b57441c6efc4",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170274,
+          "stop" : 1722807170274,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check floating-point number with dot and comma",
+        "uid" : "daf155abfd953477",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170275,
+          "stop" : 1722807170275,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'20.5'" ]
+      }, {
+        "name" : "Check floating-point number with dot and comma",
+        "uid" : "82ccf295016c0773",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170277,
+          "stop" : 1722807170277,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'20,5'" ]
+      }, {
+        "name" : "Check string input",
+        "uid" : "5b8978d0400309c3",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170278,
+          "stop" : 1722807170279,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check empty field",
+        "uid" : "2a51b69220a9c894",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170280,
+          "stop" : 1722807170280,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check number with excessive digits",
+        "uid" : "9e77287daeb69806",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170281,
+          "stop" : 1722807170282,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check field character limit",
+        "uid" : "2afa5cb209d96acc",
+        "parentUid" : "2faf6dad78aa99ec42454c5368681f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170283,
+          "stop" : 1722807170283,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2faf6dad78aa99ec42454c5368681f19"
+    } ],
+    "uid" : "676736c5235280e8594707e7755e8eea"
+  }, {
+    "name" : "Валидация формы",
+    "children" : [ {
+      "name" : "Поле: Ввод числа",
+      "children" : [ {
+        "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+        "uid" : "9f47f3a95e2c5f8e",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170284,
+          "stop" : 1722807170285,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "20" ]
+      }, {
+        "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+        "uid" : "f7853f3d65733b82",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170286,
+          "stop" : 1722807170286,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "21" ]
+      }, {
+        "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+        "uid" : "5554962d5cd7ad5f",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170288,
+          "stop" : 1722807170288,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "30" ]
+      }, {
+        "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+        "uid" : "83d4bbcb39bc97e0",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170290,
+          "stop" : 1722807170290,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "49" ]
+      }, {
+        "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+        "uid" : "17734131c39ce2a4",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170291,
+          "stop" : 1722807170292,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "50" ]
+      }, {
+        "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+        "uid" : "7667a5a849e48915",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170293,
+          "stop" : 1722807170293,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "20.1" ]
+      }, {
+        "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+        "uid" : "9e82140ee0b02f94",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170295,
+          "stop" : 1722807170295,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "21.5" ]
+      }, {
+        "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+        "uid" : "663ad51d027d4bca",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170297,
+          "stop" : 1722807170297,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "30.8" ]
+      }, {
+        "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+        "uid" : "9fbd9c7e8b474585",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170298,
+          "stop" : 1722807170299,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "49.9" ]
+      }, {
+        "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+        "uid" : "62c0d9c18f8ad9e2",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170300,
+          "stop" : 1722807170300,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "50.0" ]
+      }, {
+        "name" : "Проверка целых чисел с чекбоксом дополнительного условия",
+        "uid" : "da4767f5c3f7a3d8",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170302,
+          "stop" : 1722807170302,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка чисел ниже минимальной границы",
+        "uid" : "fdeaf25aec23b2d",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170303,
+          "stop" : 1722807170303,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка чисел выше максимальной границы",
+        "uid" : "32c3363dda46bb59",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170305,
+          "stop" : 1722807170305,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка отрицательных чисел",
+        "uid" : "95e8d98aa795c3f0",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170306,
+          "stop" : 1722807170307,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка значения ноль",
+        "uid" : "b3d797a907e88e06",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170308,
+          "stop" : 1722807170308,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка вещественного числа ниже минимальной границы с чекбоксом",
+        "uid" : "5d6941676aee471e",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170309,
+          "stop" : 1722807170309,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка вещественного числа с точкой и запятой",
+        "uid" : "713d52784d7b8828",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170311,
+          "stop" : 1722807170311,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'20.5'" ]
+      }, {
+        "name" : "Проверка вещественного числа с точкой и запятой",
+        "uid" : "7388f803bc675cc8",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170312,
+          "stop" : 1722807170313,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'20,5'" ]
+      }, {
+        "name" : "Проверка ввода строки",
+        "uid" : "b127be8f12012fa7",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170314,
+          "stop" : 1722807170314,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка пустого поля",
+        "uid" : "c2b78ca208424cc1",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170315,
+          "stop" : 1722807170316,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка числа с чрезмерным количеством цифр",
+        "uid" : "157136f025e6ac30",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170317,
+          "stop" : 1722807170317,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка предела символов в поле",
+        "uid" : "2c78e74b6e4d64ec",
+        "parentUid" : "2b53c7c31fb11be2c3d89c303deb9a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722807170318,
+          "stop" : 1722807170318,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b53c7c31fb11be2c3d89c303deb9a36"
+    } ],
+    "uid" : "abd3ed3b3d21996e4775463ad1820d54"
+  } ],
+  "name" : "behaviors"
+}

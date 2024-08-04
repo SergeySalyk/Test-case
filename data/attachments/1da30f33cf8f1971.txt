@@ -1,0 +1,1 @@
+Value '49' is expected to be a natural number within the range of 20 to 50 inclusive. The check result should be successful.

@@ -1,0 +1,441 @@
+[ {
+  "uid" : "fdeaf25aec23b2d",
+  "name" : "Проверка чисел ниже минимальной границы",
+  "time" : {
+    "start" : 1722807170303,
+    "stop" : 1722807170303,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b127be8f12012fa7",
+  "name" : "Проверка ввода строки",
+  "time" : {
+    "start" : 1722807170314,
+    "stop" : 1722807170314,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3d797a907e88e06",
+  "name" : "Проверка значения ноль",
+  "time" : {
+    "start" : 1722807170308,
+    "stop" : 1722807170308,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17734131c39ce2a4",
+  "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+  "time" : {
+    "start" : 1722807170291,
+    "stop" : 1722807170292,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f76ff78fc8066c7f",
+  "name" : "Check natural numbers without the \"additional condition\" checkbox",
+  "time" : {
+    "start" : 1722807170251,
+    "stop" : 1722807170251,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d6941676aee471e",
+  "name" : "Проверка вещественного числа ниже минимальной границы с чекбоксом",
+  "time" : {
+    "start" : 1722807170309,
+    "stop" : 1722807170309,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82ccf295016c0773",
+  "name" : "Check floating-point number with dot and comma",
+  "time" : {
+    "start" : 1722807170277,
+    "stop" : 1722807170277,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5554962d5cd7ad5f",
+  "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+  "time" : {
+    "start" : 1722807170288,
+    "stop" : 1722807170288,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2b78ca208424cc1",
+  "name" : "Проверка пустого поля",
+  "time" : {
+    "start" : 1722807170315,
+    "stop" : 1722807170316,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ca479f9e8484b32",
+  "name" : "Check floating-point numbers with the additional condition checkbox",
+  "time" : {
+    "start" : 1722807170258,
+    "stop" : 1722807170258,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "daf155abfd953477",
+  "name" : "Check floating-point number with dot and comma",
+  "time" : {
+    "start" : 1722807170275,
+    "stop" : 1722807170275,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebb2bd802765fc09",
+  "name" : "Check integer numbers with the additional condition checkbox",
+  "time" : {
+    "start" : 1722807170267,
+    "stop" : 1722807170267,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62c0d9c18f8ad9e2",
+  "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+  "time" : {
+    "start" : 1722807170300,
+    "stop" : 1722807170300,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7388f803bc675cc8",
+  "name" : "Проверка вещественного числа с точкой и запятой",
+  "time" : {
+    "start" : 1722807170312,
+    "stop" : 1722807170313,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93fa85ffdeea6d6a",
+  "name" : "Check floating-point numbers with the additional condition checkbox",
+  "time" : {
+    "start" : 1722807170260,
+    "stop" : 1722807170260,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2afa5cb209d96acc",
+  "name" : "Check field character limit",
+  "time" : {
+    "start" : 1722807170283,
+    "stop" : 1722807170283,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da4767f5c3f7a3d8",
+  "name" : "Проверка целых чисел с чекбоксом дополнительного условия",
+  "time" : {
+    "start" : 1722807170302,
+    "stop" : 1722807170302,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7853f3d65733b82",
+  "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+  "time" : {
+    "start" : 1722807170286,
+    "stop" : 1722807170286,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e82140ee0b02f94",
+  "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+  "time" : {
+    "start" : 1722807170295,
+    "stop" : 1722807170295,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95e8d98aa795c3f0",
+  "name" : "Проверка отрицательных чисел",
+  "time" : {
+    "start" : 1722807170306,
+    "stop" : 1722807170307,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7667a5a849e48915",
+  "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+  "time" : {
+    "start" : 1722807170293,
+    "stop" : 1722807170293,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "526f0837a12fa99",
+  "name" : "Check natural numbers without the \"additional condition\" checkbox",
+  "time" : {
+    "start" : 1722807170253,
+    "stop" : 1722807170253,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed5daddc8d9fa86a",
+  "name" : "Check negative numbers",
+  "time" : {
+    "start" : 1722807170271,
+    "stop" : 1722807170271,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa67876e89fbc6b8",
+  "name" : "Check numbers above the maximum boundary",
+  "time" : {
+    "start" : 1722807170269,
+    "stop" : 1722807170270,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f47f3a95e2c5f8e",
+  "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+  "time" : {
+    "start" : 1722807170284,
+    "stop" : 1722807170285,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83d4bbcb39bc97e0",
+  "name" : "Проверка натуральных чисел без чекбокса \"дополнительного условия\"",
+  "time" : {
+    "start" : 1722807170290,
+    "stop" : 1722807170290,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2382cff0419a872",
+  "name" : "Check floating-point numbers with the additional condition checkbox",
+  "time" : {
+    "start" : 1722807170263,
+    "stop" : 1722807170264,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "713d52784d7b8828",
+  "name" : "Проверка вещественного числа с точкой и запятой",
+  "time" : {
+    "start" : 1722807170311,
+    "stop" : 1722807170311,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b8978d0400309c3",
+  "name" : "Check string input",
+  "time" : {
+    "start" : 1722807170278,
+    "stop" : 1722807170279,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fbd9c7e8b474585",
+  "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+  "time" : {
+    "start" : 1722807170298,
+    "stop" : 1722807170299,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93320ebea451d338",
+  "name" : "Check numbers below the minimum boundary",
+  "time" : {
+    "start" : 1722807170268,
+    "stop" : 1722807170268,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32c3363dda46bb59",
+  "name" : "Проверка чисел выше максимальной границы",
+  "time" : {
+    "start" : 1722807170305,
+    "stop" : 1722807170305,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d465bba03f82e6a",
+  "name" : "Check natural numbers without the \"additional condition\" checkbox",
+  "time" : {
+    "start" : 1722807170256,
+    "stop" : 1722807170257,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4779042de5078e91",
+  "name" : "Check floating-point numbers with the additional condition checkbox",
+  "time" : {
+    "start" : 1722807170265,
+    "stop" : 1722807170265,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fce48acf23173a71",
+  "name" : "Check zero value",
+  "time" : {
+    "start" : 1722807170272,
+    "stop" : 1722807170273,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c78e74b6e4d64ec",
+  "name" : "Проверка предела символов в поле",
+  "time" : {
+    "start" : 1722807170318,
+    "stop" : 1722807170318,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "982b2720afa3aec6",
+  "name" : "Check floating-point numbers with the additional condition checkbox",
+  "time" : {
+    "start" : 1722807170262,
+    "stop" : 1722807170262,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5632b57441c6efc4",
+  "name" : "Check floating-point number below minimum boundary with checkbox",
+  "time" : {
+    "start" : 1722807170274,
+    "stop" : 1722807170274,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca4a6b94a3bde6d4",
+  "name" : "Check natural numbers without the \"additional condition\" checkbox",
+  "time" : {
+    "start" : 1722807170255,
+    "stop" : 1722807170255,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e77287daeb69806",
+  "name" : "Check number with excessive digits",
+  "time" : {
+    "start" : 1722807170281,
+    "stop" : 1722807170282,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "157136f025e6ac30",
+  "name" : "Проверка числа с чрезмерным количеством цифр",
+  "time" : {
+    "start" : 1722807170317,
+    "stop" : 1722807170317,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91aafe60b81bbb76",
+  "name" : "Check natural numbers without the \"additional condition\" checkbox",
+  "time" : {
+    "start" : 1722807170249,
+    "stop" : 1722807170249,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "663ad51d027d4bca",
+  "name" : "Проверка вещественных чисел с чекбоксом дополнительного условия",
+  "time" : {
+    "start" : 1722807170297,
+    "stop" : 1722807170297,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a51b69220a9c894",
+  "name" : "Check empty field",
+  "time" : {
+    "start" : 1722807170280,
+    "stop" : 1722807170280,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

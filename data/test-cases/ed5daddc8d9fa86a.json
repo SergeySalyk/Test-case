@@ -1,0 +1,96 @@
+{
+  "uid" : "ed5daddc8d9fa86a",
+  "name" : "Check negative numbers",
+  "fullName" : "tests.test_case_en.TestFormValidation#test_negative_numbers",
+  "historyId" : "392722677a9f05dac69a1fc3897034d5",
+  "time" : {
+    "start" : 1722807170271,
+    "stop" : 1722807170271,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Enter value '-10' in the 'Number' field and click 'Check'",
+      "time" : {
+        "start" : 1722807170271,
+        "stop" : 1722807170271,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "928721e44b3acdac",
+        "name" : "Expected Result",
+        "source" : "928721e44b3acdac.txt",
+        "type" : "text/plain",
+        "size" : 86
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Field: Number Input"
+  }, {
+    "name" : "feature",
+    "value" : "Form Validation"
+  }, {
+    "name" : "tag",
+    "value" : "priority(2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_case_en"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestFormValidation"
+  }, {
+    "name" : "host",
+    "value" : "fv-az658-27"
+  }, {
+    "name" : "thread",
+    "value" : "1759-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_case_en"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "priority(2)" ]
+  },
+  "source" : "ed5daddc8d9fa86a.json",
+  "parameterValues" : [ ]
+}

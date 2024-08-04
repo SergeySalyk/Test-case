@@ -1,0 +1,1 @@
+Value '0' is expected to be zero, which is not allowed in this context. The check result should be erroneous.

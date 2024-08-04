@@ -1,0 +1,99 @@
+{
+  "uid" : "1ca479f9e8484b32",
+  "name" : "Check floating-point numbers with the additional condition checkbox",
+  "fullName" : "tests.test_case_en.TestFormValidation#test_floating_point_numbers_with_checkbox",
+  "historyId" : "fee6e1b1397dbf07634e46e029613706",
+  "time" : {
+    "start" : 1722807170258,
+    "stop" : 1722807170258,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Enter value '20.1' in the 'Number' field and click 'Check' with the checkbox selected",
+      "time" : {
+        "start" : 1722807170258,
+        "stop" : 1722807170258,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3662c7342f633b",
+        "name" : "Expected Result",
+        "source" : "3662c7342f633b.txt",
+        "type" : "text/plain",
+        "size" : 133
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Field: Number Input"
+  }, {
+    "name" : "feature",
+    "value" : "Form Validation"
+  }, {
+    "name" : "tag",
+    "value" : "priority(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_case_en"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestFormValidation"
+  }, {
+    "name" : "host",
+    "value" : "fv-az658-27"
+  }, {
+    "name" : "thread",
+    "value" : "1759-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_case_en"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "value",
+    "value" : "20.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "priority(1)" ]
+  },
+  "source" : "1ca479f9e8484b32.json",
+  "parameterValues" : [ "20.1" ]
+}
