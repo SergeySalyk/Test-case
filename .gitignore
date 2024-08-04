@@ -1,0 +1,32 @@
+# Директории и файлы для исключения
+/build/
+/.gradle/
+/out/
+/target/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+
+# Конфигурационные файлы IDE
+.idea/
+*.iml
+*.ipr
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Docker файлы
+docker-compose.override.yml
+docker-compose.debug.yml
+
+# Allure отчет
+allure-report/
+
+# Python виртуальные окружения и артефакты
+__pycache__/
+*.pyc
+.venv/
+.env
